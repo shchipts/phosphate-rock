@@ -1,0 +1,13 @@
+Package: phosphateRock
+Type: Package
+Title: 
+Version: 0.0.1
+Author: Anna Shchiptsova [aut, cre],
+  International Institute for Applied Systems Analysis [cph]
+Maintainer: Anna Shchiptsova <anna.shchiptsova1@gmail.com>
+Description: 
+License: MIT + file LICENSE
+Depends: 
+    R (>= 2.10)
+LazyData: true
+URL: 

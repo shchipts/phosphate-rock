@@ -1,0 +1,53 @@
+Name,Country,Subnational_Level,Company,Rock_type,Status,USGS_Company,USGS_Year,Comment
+Phalaborwa,South Africa,Limpopo Province,Foskor (Pty) Ltd,igneous,operational,Phosphate Development Corp. Ltd. [Foskor (Pty) Ltd.],2018,
+Siilinjarvi,Finland,North Savo Region,Yara Suomi Oy,igneous,operational,Yara International ASA,2019,
+San Juan de la Costa,Mexico,Baja California Sur State,Pemex Fertilizantes,sedimentary,operational,"Pemex Fertilizantes [Petróleos Mexicanos, S.A. de C.V. (PEMEX), 100%]",2018,
+Bayovar,Peru,Piura Region,The Mosaic Company,sedimentary,operational,"Compañia Minera Miski Mayo S.R.L. (Mosaic Co., 75%, and Mitsui & Co., Ltd., 25%)",2018,
+Hahotoe-Kpogame,Togo,Maritime Region,Societe Nouvelle des Phosphates du Togo (SNPT),sedimentary,operational,"Société Nouvelle des Phosphates du Togo (SNPT) (Government, 100%)",2019,
+Lac a Paul,Canada,Quebec Province,Arianne Phosphate Inc. ,igneous,in development,NA,NA,
+Martison,Canada,Ontario Province,Fox River Resources Corp.,igneous,in development,NA,NA,
+Djebel Onk,Algeria,Tébessa Province,Societe des Mines de Phosphates S.p.A. (SOMIPHOS),sedimentary,operational,Société des Mines de Phosphates S.p.A. (SOMIPHOS) (Ferphos Group S.p.A),2019,
+Al Jalamid,Saudi Arabia,Northern Borders Province,Saudi Arabian Mining Company (Ma’aden),sedimentary,operational,Maaden,2019,
+Umm Wu’al,Saudi Arabia,Northern Borders Province,Saudi Arabian Mining Company (Ma’aden),sedimentary,operational,Maaden,2019,
+Eshidiya,Jordan,Ma'an Governorate,Jordan Phosphate Mines Company P.L.C. (JPMC),sedimentary,operational,"Jordan Phosphate Mines Co. p.l.c. (JPMC) (Indian Potash Ltd., 27.380%; Government Shareholdings' Management Co., 25.655%; Social Security Corp., 16.527%; Kisan International Trading FZE, 9.620; Government of the State of Kuwait, 9.333%; Other investors, 11.485%)",2019,
+Central Jordan (Al Hassa and Al Abiad),Jordan,Ma'an Governorate,Jordan Phosphate Mines Company P.L.C. (JPMC),sedimentary,operational,"Jordan Phosphate Mines Co. p.l.c. (JPMC) (Indian Potash Ltd., 27.380%; Government Shareholdings' Management Co., 25.655%; Social Security Corp., 16.527%; Kisan International Trading FZE, 9.620; Government of the State of Kuwait, 9.333%; Other investors, 11.485%)",2019,
+Ruseifa,Jordan,Zarqa Governorate,Jordan Phosphate Mines Company P.L.C. (JPMC),sedimentary,operational,"Jordan Phosphate Mines Co. p.l.c. (JPMC) (Indian Potash Ltd., 27.380%; Government Shareholdings' Management Co., 25.655%; Social Security Corp., 16.527%; Kisan International Trading FZE, 9.620; Government of the State of Kuwait, 9.333%; Other investors, 11.485%)",2019,
+Abu Tartur,Egypt,New Valley Governorate,Misr Phosphate Company,sedimentary,operational,"Phosphate Misr Co. S.A.E. (PMC) [National Investment Bank, 50%; Egyptian Mineral Resources Co. (EMCR), 20%; Ganoub El Wadi Holding Co., 15%; Egyptian General Petroleum Corp., 15%]",2019,
+Nile Valley,Egypt,Red Sea Governorate,El Nasr Mining Company,sedimentary,operational,"El Nasr Mining Co. [Holding Company for Metallurgical Industries (HCMI), 100%]",2019,
+Red Sea,Egypt,Red Sea Governorate,El Nasr Mining Company,sedimentary,operational,"El Nasr Mining Co. [Holding Company for Metallurgical Industries (HCMI), 100%]",2019,
+Gafsa,Tunisia,Gafsa Governorate,Compagnie des Phosphates de Gafsa (CPG),sedimentary,operational,"Compagnie des Phosphates de Gafsa (CPG) (Government, 100%)",2019,
+Taiba-Tobene,Senegal,Kaffrine Region,Industries Chimiques du Senegal (ICS),sedimentary,operational,"Industries Chimiques du Sénégal Group (Archean  Group, Government of India, and Indian Farmers from Dakar Fertilizer Cooperative Ltd., 85%, and Government of Senegal, 15%)",2019,
+Thies-Lam Lam,Senegal,Thiès region,Sephos Senegal SA ,sedimentary,operational,Société Senegalaise des Phosphates de Thies SA,2019,
+Matam-Ndendory,Senegal,Matam Region,Societe Miniere de la Vallee du Fleuve Senegal (SOMIVA),sedimentary,operational,NA,NA,
+Gadde Bissik,Senegal,Diourbel Region,Baobab Fertilizer Africa (BFA),sedimentary,operational,NA,NA,
+Phosphate Hill-Duchess,Australia,Queensland State,Incitec Pivot Limited,sedimentary,operational,"Phosphate Hill-Duchess open pit phosphate mine (Incitec Pivot Ltd., 100%)",2019,
+Negev,Israel,Southern District,Israel Chemicals Ltd.,sedimentary,operational,"Rotem Amfert Negev Ltd. [Israel Chemicals Ltd. (ICL), 100%]",2019,
+Jhamarkotra,India,Rajasthan State,Rajasthan State Mineral Development Corp. Ltd.,sedimentary,operational,"Rajasthan State Mineral Development Corp. Ltd. (Rajasthan Jamarkotra; Badgaon; Dakankotra; Kanpur; 1,500 State government, 100%)",2019,
+Araxa/Patrocinio,Brazil,Minas Gerais State,The Mosaic Company,igneous,operational,Mosaic Co.,2018,"Patrocinio does not have its own beneficiation plant, so the ore is transported by rail to Araxá for processing."
+Cajati,Brazil,São Paulo State,The Mosaic Company,igneous,operational,Mosaic Co.,2018,"The primary alkaline intrusive complex of interest for Cajati is the Jacupiranga Ultramafic-Carbonatitic Mesozoic Complex. The economically exploitable portion of the Jacupiranga Alkaline Complex is focused on phosphate mineralization within the carbonatite domain of the complex. The phosphate ore is extracted through surface mining by drilling and blasting, loaded into trucks and transported to the beneficiation plant onsite at Cajati."
+Catalao,Brazil,"Minas Gerais State, Goias State",The Mosaic Company,igneous,operational,Mosaic Co.,2018,
+Tapira,Brazil,Sergipe State,The Mosaic Company,igneous,operational,Mosaic Co.,2018,
+Ouvidor,Brazil,Goias State,Copebras S.A.,igneous,operational,"Copebrás S.A. (China Molybdenum Co. Ltd., 100%)",2018,
+Angico dos Dias,Brazil,Bahia State,Galvani,igneous,operational,"Galvani (Yara, 60%)",2018,
+Florida,United States,Florida State,The Mosaic Company,sedimentary,operational,"Mosaic Company, The",2022,
+Aurora,United States,North Carolina State,Nutrien Ltd.,sedimentary,operational,Nutrien Ltd.,2022,
+White Springs,United States,Florida State,Nutrien Ltd.,sedimentary,operational,Nutrien Ltd.,2022,Swift Creek
+Smoky Canyon,United States,Idaho State,J. R. Simplot Co.,sedimentary,operational,"Simplot, J.R., Co.",2022,
+Vernal,United States,Utah State,J. R. Simplot Co.,sedimentary,operational,"Simplot, J.R., Co.",2022,
+Conda,United States,Idaho State,Itafos Inc.,sedimentary,operational,Itafos Inc.,2022,Itafos Conda LLC operates the Rasmussen Valley Mine (RVM) and the Lanes Creek Mine (LCM) and is developing the nearby Husky 1 (H1) Project and North Dry Ridge (NDR) Project
+Kola,Russia,Murmansk Oblast,"Public Joint Stock Company ""Phosagro""",igneous,operational,OAO Apatit (Phosagro),2019,
+Kovdor,Russia,Murmansk Oblast,Mineral and Chemical Company Eurochem,igneous,operational,Kovdorskiy GOK,2019,
+Khouribga,Morocco,Béni Mellal-Khénifra Region,OCP S.A.,sedimentary,operational,"Office Chérifien des Phosphates (OCP) (Government, 100%)",2019,
+Gantour,Morocco,Marrakesh-Safi Region,OCP S.A.,sedimentary,operational,"Office Chérifien des Phosphates (OCP) (Government, 100%)",2019,
+Meskala,Morocco,Marrakesh-Safi Region,OCP S.A.,sedimentary,operational,"Office Chérifien des Phosphates (OCP) (Government, 100%)",2019,
+Boucraa,Morocco,Western Sahara - Laâyoune-Sakia El Hamra Region,OCP S.A.,sedimentary,operational,"Phosphates de Bou Craa S.A. [Office Chérifien des Phosphates (OCP), 100%]",2019,
+Lao Cai,Vietnam,Lào Cai Province,Vietnam Apatite Phosphorus Company,sedimentary,operational,"Vietnam Apatite One Member Co. Ltd. (VINAAPACO) [Vietnam National Chemical Corp. (VNCC), 100%]",2019,
+Eastern Mines,Syria,Homs Governorate,General Company for Phosphate and Mines (GECOPHAM),sedimentary,operational,"General Company for Phosphate and Mines (GECOPHAM) (Government, 100%)",2019,Eastern A mine and Eastern B mine
+Khneifiss,Syria,Homs Governorate,General Company for Phosphate and Mines (GECOPHAM),sedimentary,operational,"General Company for Phosphate and Mines (GECOPHAM) (Government, 100%)",2019,
+Chilisai,Kazakhstan,Aktobe Region,Temir Service LLP,sedimentary,operational,Temir Service LLP (Sunkar Resources plc),2019,
+Karatau-EuroChem,Kazakhstan,Jambyl Region,Mineral and Chemical Company Eurochem,sedimentary,operational,NA,NA,"Kok-Jon, Gimmelfarbskoe, Geres deposits"
+Karatau-Kazphosphate,Kazakhstan,Jambyl Region,Kazphosphate LLC ,sedimentary,operational,Karatau mining and processing complex (Kazphosphate LLC),2019,"Kok-Su, Kok-John, and Zhanatas deposits"
+Karatau-Chulaktau,Kazakhstan,Jambyl Region,Kazphosphate LLC ,sedimentary,operational,Chulaktau mining and processing complex (Kazphosphate LLC),2019,"Sholaktau, Aksai and Shiilibulak deposits in Talas district"
+Farim-Saliquinhe,Guinea-Bissau,Oio Region,Itafos Inc.,sedimentary,operational,NA,NA,
+Haikou,China,Yunnan Province,Yunnan Phosphate Haikou (YPH),sedimentary,operational,Yunnan Phosphate Chemical Group Co. Ltd.,2019,
+Salitre,Brazil,Minas Gerais State,Mineral and Chemical Company Eurochem,igneous,operational,NA,NA,

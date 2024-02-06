@@ -1,13 +1,14 @@
 Package: phosphateRock
 Type: Package
-Title: 
+Title: Global dataset on phosphate mining and beneficiation
 Version: 0.0.1
 Author: Anna Shchiptsova [aut, cre],
   International Institute for Applied Systems Analysis [cph]
 Maintainer: Anna Shchiptsova <anna.shchiptsova1@gmail.com>
 Description: 
-License: MIT + file LICENSE
+License: CC BY 4.0 + file LICENSE
 Depends: 
-    R (>= 2.10)
+    R (>= 4.1.1)
 LazyData: true
-URL: 
+URL: https://github.com/shchipts/phosphate-rock
+RoxygenNote: 7.1.2

@@ -1,0 +1,53 @@
+"Name","Region","Country","Subnational_Level","Company","Rock_type","Status","Capacity"
+"Khouribga","Africa","Morocco","Béni Mellal-Khénifra Region","OCP S.A.","sedimentary","operational",22.6
+"Gantour","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17
+"Meskala","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17
+"Gafsa","Africa","Tunisia","Gafsa Governorate","Compagnie des Phosphates de Gafsa (CPG)","sedimentary","operational",8.7
+"Phalaborwa","Africa","South Africa","Limpopo Province","Foskor (Pty) Ltd","igneous","operational",2.8
+"Boucraa","Africa","Morocco","Western Sahara - Laâyoune-Sakia El Hamra Region","OCP S.A.","sedimentary","operational",2.6
+"Nile Valley","Africa","Egypt","Red Sea Governorate","El Nasr Mining Company","sedimentary","operational",2.5
+"Red Sea","Africa","Egypt","Red Sea Governorate","El Nasr Mining Company","sedimentary","operational",2.5
+"Abu Tartur","Africa","Egypt","New Valley Governorate","Misr Phosphate Company","sedimentary","operational",2.19
+"Hahotoe-Kpogame","Africa","Togo","Maritime Region","Societe Nouvelle des Phosphates du Togo (SNPT)","sedimentary","operational",2
+"Taiba-Tobene","Africa","Senegal","Kaffrine Region","Industries Chimiques du Senegal (ICS)","sedimentary","operational",2
+"Djebel Onk","Africa","Algeria","Tébessa Province","Societe des Mines de Phosphates S.p.A. (SOMIPHOS)","sedimentary","operational",1.6
+"Thies-Lam Lam","Africa","Senegal","Thiès region","Sephos Senegal SA ","sedimentary","operational",1.5
+"Matam-Ndendory","Africa","Senegal","Matam Region","Societe Miniere de la Vallee du Fleuve Senegal (SOMIVA)","sedimentary","operational",1.2
+"Gadde Bissik","Africa","Senegal","Diourbel Region","Baobab Fertilizer Africa (BFA)","sedimentary","operational",1
+"Lao Cai","East Asia","Vietnam","Lào Cai Province","Vietnam Apatite Phosphorus Company","sedimentary","operational",5.5
+"Haikou","East Asia","China","Yunnan Province","Yunnan Phosphate Haikou (YPH)","sedimentary","operational",2.2
+"Kola","Eastern Europe And Central Asia","Russia","Murmansk Oblast","Public Joint Stock Company ""Phosagro""","igneous","operational",9.5
+"Chilisai","Eastern Europe And Central Asia","Kazakhstan","Aktobe Region","Temir Service LLP","sedimentary","operational",5.2
+"Kovdor","Eastern Europe And Central Asia","Russia","Murmansk Oblast","Mineral and Chemical Company Eurochem","igneous","operational",2.7
+"Karatau-EuroChem","Eastern Europe And Central Asia","Kazakhstan","Jambyl Region","Mineral and Chemical Company Eurochem","sedimentary","operational",1.5
+"Karatau-Kazphosphate","Eastern Europe And Central Asia","Kazakhstan","Jambyl Region","Kazphosphate LLC ","sedimentary","operational",NA
+"Karatau-Chulaktau","Eastern Europe And Central Asia","Kazakhstan","Jambyl Region","Kazphosphate LLC ","sedimentary","operational",NA
+"Bayovar","Latin America","Peru","Piura Region","The Mosaic Company","sedimentary","operational",4
+"San Juan de la Costa","Latin America","Mexico","Baja California Sur State","Pemex Fertilizantes","sedimentary","operational",2.9
+"Tapira","Latin America","Brazil","Sergipe State","The Mosaic Company","igneous","operational",2.1
+"Salitre","Latin America","Brazil","Minas Gerais State","Mineral and Chemical Company Eurochem","igneous","operational",1.5
+"Ouvidor","Latin America","Brazil","Goias State","Copebras S.A.","igneous","operational",1.4
+"Araxa/Patrocinio","Latin America","Brazil","Minas Gerais State","The Mosaic Company","igneous","operational",1.3
+"Catalao","Latin America","Brazil","Minas Gerais State, Goias State","The Mosaic Company","igneous","operational",1
+"Cajati","Latin America","Brazil","São Paulo State","The Mosaic Company","igneous","operational",0.6
+"Angico dos Dias","Latin America","Brazil","Bahia State","Galvani","igneous","operational",0.5
+"Florida","North America","United States","Florida State","The Mosaic Company","sedimentary","operational",14
+"Aurora","North America","United States","North Carolina State","Nutrien Ltd.","sedimentary","operational",5.4
+"Lac a Paul","North America","Canada","Quebec Province","Arianne Phosphate Inc. ","igneous","in development",3
+"White Springs","North America","United States","Florida State","Nutrien Ltd.","sedimentary","operational",2
+"Smoky Canyon","North America","United States","Idaho State","J. R. Simplot Co.","sedimentary","operational",2
+"Vernal","North America","United States","Utah State","J. R. Simplot Co.","sedimentary","operational",1.6
+"Martison","North America","Canada","Ontario Province","Fox River Resources Corp.","igneous","in development",1.41
+"Conda","North America","United States","Idaho State","Itafos Inc.","sedimentary","operational",1.13
+"Phosphate Hill-Duchess","Oceania","Australia","Queensland State","Incitec Pivot Limited","sedimentary","operational",2.2
+"Jhamarkotra","South Asia","India","Rajasthan State","Rajasthan State Mineral Development Corp. Ltd.","sedimentary","operational",1.5
+"Eshidiya","West Asia","Jordan","Ma'an Governorate","Jordan Phosphate Mines Company P.L.C. (JPMC)","sedimentary","operational",6.365
+"Umm Wu’al","West Asia","Saudi Arabia","Northern Borders Province","Saudi Arabian Mining Company (Ma’aden)","sedimentary","operational",5.3
+"Al Jalamid","West Asia","Saudi Arabia","Northern Borders Province","Saudi Arabian Mining Company (Ma’aden)","sedimentary","operational",5.02
+"Negev","West Asia","Israel","Southern District","Israel Chemicals Ltd.","sedimentary","operational",3.9
+"Central Jordan (Al Hassa and Al Abiad)","West Asia","Jordan","Ma'an Governorate","Jordan Phosphate Mines Company P.L.C. (JPMC)","sedimentary","operational",2.565
+"Eastern Mines","West Asia","Syria","Homs Governorate","General Company for Phosphate and Mines (GECOPHAM)","sedimentary","operational",1.8
+"Khneifiss","West Asia","Syria","Homs Governorate","General Company for Phosphate and Mines (GECOPHAM)","sedimentary","operational",0.8
+"Ruseifa","West Asia","Jordan","Zarqa Governorate","Jordan Phosphate Mines Company P.L.C. (JPMC)","sedimentary","operational",0.57
+"Siilinjarvi","West Europe","Finland","North Savo Region","Yara Suomi Oy","igneous","operational",1
+"Farim-Saliquinhe",NA,"Guinea-Bissau","Oio Region","Itafos Inc.","sedimentary","operational",1.3

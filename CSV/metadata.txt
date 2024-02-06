@@ -1,0 +1,18 @@
+Title: Global dataset on phosphate mining and beneficiation
+Version: 0.0.1
+Author: Anna Shchiptsova, International Institute for Applied Systems Analysis (IIASA)
+Description: 
+License: CC BY 4.0 + file LICENSE
+URL: https://github.com/shchipts/phosphate-rock
+
+Tables:
+1. "mining_complexes": general properties of phosphate mining and beneficiation complexes
+	- includes 8 columns
+	Name			Name of the complex
+	Region			Region name (according to the IFA classification)
+	Country 		Country name (according to the U.S. Geological Survey)
+	Subnational_Level	Sub-national administrative area
+	Company			Name of the company owning mine(s) and beneficiation plant(s)
+	Rock_type		Type of rock formation: sedimentary or igneous
+	Status			Status of mining project: operational or in development
+	Capacity		Capacity in million tonnes of mass of phosphate rock

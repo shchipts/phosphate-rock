@@ -1,4 +1,4 @@
-"Name","Region","Country","Subnational_Level","Company","Rock_type","Status","Capacity"
+"Name","Region","Country","Subnational_area","Company","Rock_type","Status","Capacity"
 "Khouribga","Africa","Morocco","Béni Mellal-Khénifra Region","OCP S.A.","sedimentary","operational",22.6
 "Gantour","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17
 "Meskala","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17

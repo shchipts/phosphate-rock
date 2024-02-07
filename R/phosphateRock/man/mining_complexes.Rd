@@ -3,15 +3,15 @@
 \docType{data}
 \name{mining_complexes}
 \alias{mining_complexes}
-\title{General properties of phosphate mining and beneficiation complexes}
+\title{Phosphate mining and beneficiation complexes: general information}
 \format{
 A data frame with 8 columns:
 \describe{
-\item{Name}{Name of mining and beneficiation complex}
+\item{Name}{Name of the complex}
 \item{Region}{Region name (according to the IFA classification)}
 \item{Country}{Country name (according to the U.S. Geological Survey)}
-\item{Subnational_Level}{Sub-national administrative area}
-\item{Company}{Name of the company owning mine(s) and beneficiation plant(s)}
+\item{Subnational_area}{Sub-national administrative area (e.g., region, state, province)}
+\item{Company}{Name of the company owning mining and beneficiation facilities}
 \item{Rock_type}{Type of rock formation: sedimentary or igneous}
 \item{Status}{Status of mining project: operational or in development}
 \item{Capacity}{Capacity in million tonnes of mass of phosphate rock (PR)}
@@ -21,6 +21,8 @@ A data frame with 8 columns:
 mining_complexes
 }
 \description{
-'\emph{Phosphate mining and beneficiation complex}': a phosphate ore deposit with mine(s) and beneficiation plant(s) designated by name with definable average chemical composition of ore
+General properties of individual phosphate mining and beneficiation complexes, 
+including their name, geographical location, type of rock, ownership, 
+production capacity, and operational status.
 }
 \keyword{datasets}

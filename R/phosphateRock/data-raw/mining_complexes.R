@@ -1,14 +1,15 @@
 library(dplyr)
 
-mining_complexes <- read.csv("data-raw/general_properties.csv") %>%
+mining_complexes <- read.csv("data-raw/collected/general_properties.csv") %>%
   select(-c(USGS_Company, USGS_Year, Comment)) %>%
+  rename(Subnational_area = Subnational_Level) %>%
   left_join(
-    read.csv("data-raw/classification country.csv") %>%
+    read.csv("data-raw/collected/classification country.csv") %>%
       select(-IFA) %>%
       rename(Country = USGS, Region = IFA_Region),
     by = c("Country")) %>%
   left_join(
-    read.csv("data-raw/capacity.csv") %>%
+    read.csv("data-raw/collected/capacity.csv") %>%
       select(Name, Production_Capacity) %>%
       rename(Capacity = Production_Capacity),
     by = c("Name")) %>%
@@ -16,7 +17,7 @@ mining_complexes <- read.csv("data-raw/general_properties.csv") %>%
     Name,
     Region,
     Country,
-    Subnational_Level,
+    Subnational_area,
     Company,
     Rock_type,
     Status,

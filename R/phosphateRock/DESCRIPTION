@@ -9,6 +9,8 @@ Description:
 License: CC BY 4.0 + file LICENSE
 Depends: 
     R (>= 4.1.1)
+Suggests: R.rsp
+VignetteBuilder: R.rsp
 LazyData: true
 URL: https://github.com/shchipts/phosphate-rock
 RoxygenNote: 7.1.2

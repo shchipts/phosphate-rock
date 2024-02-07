@@ -12,8 +12,8 @@ A data frame with 8 columns:
 \item{Country}{Country name (according to the U.S. Geological Survey)}
 \item{Subnational_area}{Sub-national administrative area (e.g., region, state, province)}
 \item{Company}{Name of the company owning mining and beneficiation facilities}
-\item{Rock_type}{Type of rock formation: sedimentary or igneous}
-\item{Status}{Status of mining project: operational or in development}
+\item{Rock_type}{Type of rock formation: \emph{sedimentary} or \emph{igneous}}
+\item{Status}{Status of mining project: \emph{operational} or \emph{in development}}
 \item{Capacity}{Capacity in million tonnes of mass of phosphate rock (PR)}
 }
 }

@@ -10,7 +10,7 @@ A data frame with 4 columns:
 \item{Source}{Identifier for citation}
 \item{Reference}{Brief bibliographical reference(s) to source document(s)}
 \item{Year}{Year of relevance}
-\item{Note_Confidence}{Notes on quality of source data}
+\item{Note_confidence}{Notes on quality of source data}
 \item{Comment}{Additional notes on data collection}
 }
 }

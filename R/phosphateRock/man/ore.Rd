@@ -8,7 +8,7 @@
 A data frame with 4 columns:
 \describe{
 \item{Name}{Name of the phosphate mining and beneficiation complex}
-\item{Confidence}{High (relevant company's data), medium or low}
+\item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
 \item{Value}{Grade, \% P2O5}
 \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 }

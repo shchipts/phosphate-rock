@@ -15,8 +15,8 @@ NULL
 #' \item{Country}{Country name (according to the U.S. Geological Survey)}
 #' \item{Subnational_area}{Sub-national administrative area (e.g., region, state, province)}
 #' \item{Company}{Name of the company owning mining and beneficiation facilities}
-#' \item{Rock_type}{Type of rock formation: sedimentary or igneous}
-#' \item{Status}{Status of mining project: operational or in development}
+#' \item{Rock_type}{Type of rock formation: \emph{sedimentary} or \emph{igneous}}
+#' \item{Status}{Status of mining project: \emph{operational} or \emph{in development}}
 #' \item{Capacity}{Capacity in million tonnes of mass of phosphate rock (PR)}
 #' }
 #' 
@@ -36,7 +36,7 @@ NULL
 #' @format A data frame with 4 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{High (relevant company's data), medium or low}
+#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
 #' \item{Value}{Grade, \% P2O5}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' } 
@@ -57,7 +57,7 @@ NULL
 #' @format A data frame with 4 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{High (relevant company's data), medium or low}
+#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
 #' \item{Value}{Grade, \% P2O5}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -87,7 +87,7 @@ NULL
 #' @format A data frame with 4 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{na}
+#' \item{Confidence}{\emph{Standard} for raw data, or \emph{Low} for data from similar deposit and/or averaged}
 #' \item{Value}{Grade, \% P2O5}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -117,7 +117,7 @@ NULL
 #' @format A data frame with 5 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{High (relevant company's data), medium or low}
+#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
 #' \item{Value}{PR-to-ore ratio}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -139,7 +139,7 @@ NULL
 #' @format A data frame with 5 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{High (relevant company's data), medium or low}
+#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
 #' \item{Value}{Ratio of \% P2O5 in PR to \% P2O5 in ore}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -162,7 +162,7 @@ NULL
 #' \item{Source}{Identifier for citation}
 #' \item{Reference}{Brief bibliographical reference(s) to source document(s)}
 #' \item{Year}{Year of relevance}
-#' \item{Note_Confidence}{Notes on quality of source data}
+#' \item{Note_confidence}{Notes on quality of source data}
 #' \item{Comment}{Additional notes on data collection}
 #' }
 #' 

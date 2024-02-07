@@ -188,7 +188,12 @@ sources <- data %>%
   select(Source, Reference, Year, Note_Confidence, Comment) %>%
   rbind(
     data_mineral %>%
-      select(Source, Reference, Year, Note_Confidence, Comment))
+      mutate(
+        Note_Confidence = case_when(
+          Confidence == "Low" ~ "Raw data for similar deposit is used or/and raw data is averaged",
+          TRUE ~ "Raw data is used")) %>%
+      select(Source, Reference, Year, Note_Confidence, Comment)) %>%
+  rename(Note_confidence = Note_Confidence)
 
 
 write.csv(

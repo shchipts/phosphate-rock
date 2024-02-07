@@ -1,53 +1,53 @@
-Name,Model,Confidence,Type,Value,Source,Note_Confidence,Comment
-Phalaborwa,Fluorapatite,High,NA,NA,de Jager 1989,,
-Siilinjarvi,Data,Medium,P2O5,41.34,Puustinen & Kauppinen 1989,,
-San Juan de la Costa,Fluorapatite,Low,NA,NA,Piper 1991,,
-Bayovar,Data,Medium,P2O5,37.18,Cheney et al. 1979,,
-Hahotoe-Kpogame,Francolite,High,a-cell,9.351,van Kauwenbergh 2006,,
-Lac a Paul,Fluorapatite,High,NA,NA,Fredette 2006,,
-Martison,Fluorapatite,High,NA,NA,Sage 1991,,
-Djebel Onk,Francolite,Medium,a-cell,9.327,van Kauwenbergh 2006,,
-Al Jalamid,Francolite,Medium,a-cell,9.337,Hughes and Gilkes 1986; Cathcart 1968,,
-Umm Wu’al,Francolite,Medium,a-cell,9.337,Hughes and Gilkes 1986; Cathcart 1968,,
-Eshidiya,Francolite,Medium,a-cell,9.35,Abed & Abdalla 1998,,
-Central Jordan (Al Hassa and Al Abiad),Francolite,Medium,a-cell,9.334,Abed & Abdalla 1998,,9.336 in Condron et al. 1994
-Ruseifa,Francolite,Medium,a-cell,9.332,Abed & Abdalla 1998,,
-Abu Tartur,Data,High,P2O5,34.9,Baioumy 2013,,
-Nile Valley,Data,High,P2O5,34.7,Baioumy 2013,,
-Red Sea,Data,High,P2O5,34.6,Baioumy 2013,,
-Gafsa,Francolite,Medium,a-cell,9.326,van Kauwenbergh 2006; Hughes and Gilkes 1986,,9.324 in Karpova et al. (2005)
-Taiba-Tobene,Francolite,Medium,a-cell,9.361,Flicoteaux & Lucas 1984,,
-Thies-Lam Lam,Crandallite,Medium,NA,NA,Flicoteaux & Lucas 1984; Flicoteaux & Hameh 1989,,
-Matam-Ndendory,Data,Medium,P2O5,36.33,McClellan & Notholt 1986,,
-Gadde Bissik,Francolite,Low,a-cell,9.361,,,Assumed same as for Taibe-Tobene
-Phosphate Hill-Duchess,Data,High,P2O5,37.7,Cook 1972,,
-Negev,Francolite,Medium,a-cell,9.337,Axelrod et al. 1980,,
-Jhamarkotra,Fluorapatite,High,NA,NA,McClellan & Saavedra 1986,,
-Araxa/Patrocinio,Data,Medium,P2O5,39.6,Pereira 2003,,average
-Cajati,Fluorapatite,High,NA,NA,Born 1989,,
-Catalao,Data,Medium,P2O5,40.31,de Toledo et al. 2004,,"average of mean for types 1 and 1a; Catalao I alkaline-carbonatitic complex, Goias"
-Tapira,Data,Medium,P2O5,42.35,Brigatti et al. 2004,,average in Table 5 
-Ouvidor,Data,Medium,P2O5,40.31,de Toledo et al. 2004,,"average of mean for types 1 and 1a; Catalao I alkaline-carbonatitic complex, Goias"
-Angico dos Dias,Data,Medium,P2O5,40.75,Luciano 2016,,
-Florida,Francolite,High,a-cell,9.336,Cheney et al. 1979,,9.337 in Hughes and Gilkes (1986)
-Aurora,Francolite,Medium,a-cell,9.324,van Kauwenbergh & McClellan 1990,, 9.322 in Cheney et al. (1979)
-White Springs,Francolite,Medium,a-cell,9.336,van Kauwenbergh et al. 1990,,Estimated from  combined sample for Swift Creek mine and Suwannee River mine; 9.334 in Cheney et al. (1979)
-Smoky Canyon,Data,Low,P2O5,40.1,McClellan 1980,,Table 4 Western U.S.A.
-Vernal,Data,Low,P2O5,40.1,McClellan 1980,,Table 4 Western U.S.A.
-Conda,Data,Low,P2O5,40.1,McClellan 1980,,Table 4 Western U.S.A.
-Kola,Data,High,P2O5,40.36,Golovanov 1976,,"Part 1, chapter 1, section Apatite; 39.75 in Karpova et al. (2005)"
-Kovdor,Data,Medium,P2O5,42.38,Golovanov 1976,,Table 44. Apatite-forsterite-magnetite ore
-Khouribga,Francolite,High,a-cell,9.337,van Kauwenbergh 2006,,9.335 in Karpova et al. (2005) and Condron et al. 1994
-Gantour,Francolite,Medium,a-cell,9.336,Flicoteaux & Lucas 1984,,9.335 in Karpova et al. (2005)
-Meskala,Francolite,Medium,a-cell,9.336,,,Assumed same a-cell as for the Gantour francolite
-Boucraa,Francolite,Medium,a-cell,9.35,Condron et al. 1994,,
-Lao Cai,Fluorapatite,Medium,NA,NA,Ilyin 2008,,
-Eastern Mines,Francolite,Low,a-cell,9.332,,,Assumed same as Ruseifa - no Al Kora data (Abed 2013)
-Khneifiss,Francolite,Low,a-cell,9.332,,,Assumed same as Ruseifa - no Al Kora data (Abed 2013)
-Chilisai,Data,Medium,P2O5,38.5,Ilyin 2008,,Table 1
-Karatau-EuroChem,Data,Medium,P2O5,38.5,Ilyin 2008,,Table 1
-Karatau-Kazphosphate,Data,Medium,P2O5,38.5,Ilyin 2008,,Table 1
-Karatau-Chulaktau,Data,Medium,P2O5,38.5,Ilyin 2008,,Table 1
-Farim-Saliquinhe,Data,High,P2O5,37.21,Itafos 2023,,Section 13.3.4.3 EMPA
-Haikou,Francolite,Low,a-cell,9.356,Karpova et al. 2005,,Table 13. Assumed as for Yunnan
-Salitre,Data,Low,P2O5,40.91,Barros et al 2008,,Converted from primary apatites formula
+Name,Model,Confidence,Type,Value,Source,Comment
+Phalaborwa,Fluorapatite,Standard,NA,NA,de Jager 1989,
+Siilinjarvi,Data,Standard,P2O5,41.34,Puustinen & Kauppinen 1989,
+San Juan de la Costa,Fluorapatite,Low,NA,NA,Piper 1991,Average from known francolite shares in the ore samples
+Bayovar,Data,Standard,P2O5,37.18,Cheney et al. 1979,
+Hahotoe-Kpogame,Francolite,Standard,a-cell,9.351,van Kauwenbergh 2006,
+Lac a Paul,Fluorapatite,Standard,NA,NA,Fredette 2006,
+Martison,Fluorapatite,Standard,NA,NA,Sage 1991,
+Djebel Onk,Francolite,Standard,a-cell,9.327,van Kauwenbergh 2006,
+Al Jalamid,Francolite,Standard,a-cell,9.337,Hughes and Gilkes 1986; Cathcart 1968,
+Umm Wu’al,Francolite,Standard,a-cell,9.337,Hughes and Gilkes 1986; Cathcart 1968,
+Eshidiya,Francolite,Standard,a-cell,9.35,Abed & Abdalla 1998,
+Central Jordan (Al Hassa and Al Abiad),Francolite,Standard,a-cell,9.334,Abed & Abdalla 1998,9.336 in Condron et al. 1994
+Ruseifa,Francolite,Standard,a-cell,9.332,Abed & Abdalla 1998,
+Abu Tartur,Data,Standard,P2O5,34.9,Baioumy 2013,
+Nile Valley,Data,Standard,P2O5,34.7,Baioumy 2013,
+Red Sea,Data,Standard,P2O5,34.6,Baioumy 2013,
+Gafsa,Francolite,Standard,a-cell,9.326,van Kauwenbergh 2006; Hughes and Gilkes 1986,9.324 in Karpova et al. (2005)
+Taiba-Tobene,Francolite,Standard,a-cell,9.361,Flicoteaux & Lucas 1984,
+Thies-Lam Lam,Crandallite,Standard,NA,NA,Flicoteaux & Lucas 1984; Flicoteaux & Hameh 1989,
+Matam-Ndendory,Data,Standard,P2O5,36.33,McClellan & Notholt 1986,
+Gadde Bissik,Francolite,Low,a-cell,9.361,,Assumed same as for Taibe-Tobene
+Phosphate Hill-Duchess,Data,Standard,P2O5,37.7,Cook 1972,
+Negev,Francolite,Standard,a-cell,9.337,Axelrod et al. 1980,
+Jhamarkotra,Fluorapatite,Standard,NA,NA,McClellan & Saavedra 1986,
+Araxa/Patrocinio,Data,Low,P2O5,39.6,Pereira 2003,average
+Cajati,Fluorapatite,Standard,NA,NA,Born 1989,
+Catalao,Data,Low,P2O5,40.31,de Toledo et al. 2004,"average of mean for types 1 and 1a; Catalao I alkaline-carbonatitic complex, Goias"
+Tapira,Data,Low,P2O5,42.35,Brigatti et al. 2004,average in Table 5 
+Ouvidor,Data,Low,P2O5,40.31,de Toledo et al. 2004,"average of mean for types 1 and 1a; Catalao I alkaline-carbonatitic complex, Goias"
+Angico dos Dias,Data,Standard,P2O5,40.75,Luciano 2016,Tabela 2 - Análise química de apatita
+Florida,Francolite,Standard,a-cell,9.336,Cheney et al. 1979,9.337 in Hughes and Gilkes (1986)
+Aurora,Francolite,Standard,a-cell,9.324,van Kauwenbergh & McClellan 1990, 9.322 in Cheney et al. (1979)
+White Springs,Francolite,Standard,a-cell,9.336,van Kauwenbergh et al. 1990,Estimated from  combined sample for Swift Creek mine and Suwannee River mine; 9.334 in Cheney et al. (1979)
+Smoky Canyon,Data,Low,P2O5,40.1,McClellan 1980,Table 4 Western U.S.A.
+Vernal,Data,Low,P2O5,40.1,McClellan 1980,Table 4 Western U.S.A.
+Conda,Data,Low,P2O5,40.1,McClellan 1980,Table 4 Western U.S.A.
+Kola,Data,Standard,P2O5,40.36,Golovanov 1976,"Part 1, chapter 1, section Apatite; 39.75 in Karpova et al. (2005)"
+Kovdor,Data,Standard,P2O5,42.38,Golovanov 1976,Table 44. Apatite-forsterite-magnetite ore
+Khouribga,Francolite,Standard,a-cell,9.337,van Kauwenbergh 2006,9.335 in Karpova et al. (2005) and Condron et al. 1994
+Gantour,Francolite,Standard,a-cell,9.336,Flicoteaux & Lucas 1984,9.335 in Karpova et al. (2005)
+Meskala,Francolite,Low,a-cell,9.336,,Assumed same a-cell as for the Gantour francolite
+Boucraa,Francolite,Standard,a-cell,9.35,Condron et al. 1994,
+Lao Cai,Fluorapatite,Standard,NA,NA,Ilyin 2008,
+Eastern Mines,Francolite,Low,a-cell,9.332,,Assumed same as Ruseifa - no Al Kora data (Abed 2013)
+Khneifiss,Francolite,Low,a-cell,9.332,,Assumed same as Ruseifa - no Al Kora data (Abed 2013)
+Chilisai,Data,Low,P2O5,38.5,Ilyin 2008,Table 1
+Karatau-EuroChem,Data,Low,P2O5,38.5,Ilyin 2008,Table 1
+Karatau-Kazphosphate,Data,Low,P2O5,38.5,Ilyin 2008,Table 1
+Karatau-Chulaktau,Data,Low,P2O5,38.5,Ilyin 2008,Table 1
+Farim-Saliquinhe,Data,Standard,P2O5,37.21,Itafos 2023,Section 13.3.4.3 EMPA
+Haikou,Francolite,Low,a-cell,9.356,Karpova et al. 2005,Table 13. Assumed as for Yunnan
+Salitre,Data,Standard,P2O5,40.91,Barros et al 2008,Converted from primary apatites formula

@@ -4,7 +4,7 @@ The dataset covers worldwide production of phosphate rock (PR) at the level of p
 
 The dataset is structured into 7 tables. 
 
-All tables can be accessed using the R package [phosphateRock](R/phosphateRock) and using the CSV files in [phosphateRock](CSV/phosphateRock).
+All tables can be accessed using the [R package phosphateRock](R/phosphateRock) and using the [CSV files](CSV/phosphateRock).
 
 ## License
 

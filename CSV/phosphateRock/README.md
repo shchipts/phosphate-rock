@@ -15,8 +15,8 @@ See [Introduction](Introduction.pdf) for details.
 
 ## Documentation
 
-* [Tables metadata](metadata.pdf)
-* [Bibliography]{References.pdf}
+* Tables [metadata](metadata.pdf)
+* [Bibliography](References.pdf)
 
 ## License
 

@@ -15,7 +15,7 @@ The “Global dataset on phosphate mining and beneficiation” is structured int
 
 ```R
 # Install the development version from GitHub
-devtools::install_github("shchipts/phosphate-rock", subdir = "R/phosphateRock")
+devtools::install_github("shchipts/phosphate-rock", subdir = "R/phosphateRock", build_vignettes = TRUE)
 ```
 
 ## License

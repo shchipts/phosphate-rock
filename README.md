@@ -2,7 +2,7 @@
 
 The dataset covers worldwide production of phosphate rock (PR) at the level of phosphate mining and beneficiation complex. The objective is to gather complex-specific data on the P content of mined and beneficiated resource and on the recovery rates of beneficiation process. Phosphate mining and beneficiation complex refers to a phosphate ore deposit with adjacent mine(s) and beneficiation plant(s).
 
-The dataset is structured into 7 tables. All tables can be accessed using R package [phosphateRock](R) and using the set of files encoded in comma separated values (CSV) format.
+The dataset is structured into 7 tables. All tables can be accessed using R package [phosphateRock](R/phosphateRock) and using the [CSV files](CSV/phosphateRock).
 
 See [Introduction](R/phosphateRock/vignettes/Introduction.pdf) for details.
 

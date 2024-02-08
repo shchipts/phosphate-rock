@@ -1,11 +1,13 @@
 Package: phosphateRock
 Type: Package
 Title: Global dataset on phosphate mining and beneficiation
-Version: 0.0.1
+Version: 1.0.0
 Author: Anna Shchiptsova [aut, cre],
   International Institute for Applied Systems Analysis [cph]
 Maintainer: Anna Shchiptsova <anna.shchiptsova1@gmail.com>
-Description: 
+Description: The dataset covers worldwide production of phosphate rock (PR) at the level of phosphate mining and beneficiation complex.
+	The objective is to gather complex-specific data on the P content of mined and beneficiated resource and on the recovery rates of beneficiation process.
+	Phosphate mining and beneficiation complex refers to a phosphate ore deposit with adjacent mine(s) and beneficiation plant(s).	
 License: CC BY 4.0 + file LICENSE
 Depends: 
     R (>= 4.1.1)

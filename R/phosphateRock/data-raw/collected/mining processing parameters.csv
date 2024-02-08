@@ -27,7 +27,7 @@ Al Jalamid,Ore_P2O5,Medium,2011,21,International Business Publications 2015,Medi
 Al Jalamid,PR_P2O5,High,2016,32,Aldagheiri 2016,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,2019-2022 avarege for ratio of P2O5 content to gross weight for Saudi Arabia is 31.99 (USGS 2024)
 Al Jalamid,Recovery,High,2014,0.433,Saudi Arabian Mining Company (Ma’aden) 2014,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,Section 4.7.1.6 Production Facilities: Al-Jalamid 
 Umm Wu’al,Ore_P2O5,High,2013,17,Saudi Arabian Mining Company (Ma’aden) 2013,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,Section 4.11.3 Benefeciation Plant
-Umm Wu’al,PR_P2O5,Medium,2016,32,Aldagheiri 2016,Medium: value is taken from simular beneficiation process,Assumed the same as for Al Jalamid; 2019-2022 avarege for ratio of P2O5 content to gross weight for Saudi Arabia is 31.99 (USGS 2024)
+Umm Wu’al,PR_P2O5,Medium,2016,32,Aldagheiri 2016,Medium: value is taken from similar beneficiation process,Assumed the same as for Al Jalamid; 2019-2022 avarege for ratio of P2O5 content to gross weight for Saudi Arabia is 31.99 (USGS 2024)
 Umm Wu’al,Recovery,High,2013,0.393,Saudi Arabian Mining Company (Ma’aden) 2013,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,Section 4.11.3 Benefeciation Plant
 Eshidiya,Ore_P2O5,Low,1998,26.55,Abed & Abdalla 1998,Low: data is not relevant being recorded before 2003,Table 1
 Eshidiya,PR_P2O5,Low,2022,32,U.S. Geological Survey 2024,"Low: (1) PR grade is estimated based on the country-level data, (2) value is estimated from raw data with additional assumptions",2010-2022 average for ratio of P2O5 content to gross weight; approx. 70% comes from this mine
@@ -99,7 +99,7 @@ White Springs,Ore_P2O5,Low,1990,9.5,van Kauwenbergh et al. 1990,Low: data is not
 White Springs,PR_P2O5,High,2016,30.24,Potash Corporation of Saskatchewan Inc. 2014; Potash Corporation of Saskatchewan Inc. 2017,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,
 White Springs,Recovery_P2O5,Low,2022,0.74,The Mosaic Company 2023,"Low: value is taken from geographically close case of mining and beneficiation, but beneficiation process may vary ",Assumed as for southern Extension of the Central Florida Phosphate District
 Smoky Canyon,Ore_P2O5,Low,1989,24.5,Sheldon 1989,Low: data is not relevant being recorded before 2003,Average grade of mineable beds
-Smoky Canyon,PR_P2O5,Medium,2021,30,,Medium: value is taken from simular beneficiation process,Assumed same as for Vernal
+Smoky Canyon,PR_P2O5,Medium,2021,30,,Medium: value is taken from similar beneficiation process,Assumed same as for Vernal
 Smoky Canyon,Recovery,Medium,2013,0.667,Williams & Phillip 2013; Simplot Agribusiness 2014,Medium: value is estimated from more than one data source,Ratio of 2Mt concentrate produced (Simplot Agribusiness 2014) to 3Mt mined ore (Williams & Phillip 2013)
 Vernal,Ore_P2O5,Low,1989,24.5,Sheldon 1989,Low: data is not relevant being recorded before 2003,Average grade of mineable beds
 Vernal,PR_P2O5,High,2021,30,Utah Geological Survey 2022b,High: data is relevant for 2013-2022; company's data is used; either raw data or estimate from time series with low variance,

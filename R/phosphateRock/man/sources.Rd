@@ -19,7 +19,7 @@ sources
 }
 \description{
 General information about data sources, including their identifiers, references to source document(s),
-data relevance, and notes on data collection.
+data relevance, notes on data quality, and notes on data collection.
 }
 \details{
 For bibliography, see 

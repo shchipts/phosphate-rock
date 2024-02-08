@@ -190,8 +190,8 @@ sources <- data %>%
     data_mineral %>%
       mutate(
         Note_Confidence = case_when(
-          Confidence == "Low" ~ "Raw data for similar deposit is used or/and raw data is averaged",
-          TRUE ~ "Raw data is used")) %>%
+          Confidence == "Low" ~ "Low: raw data for similar deposit is used or/and raw data is averaged",
+          TRUE ~ "Standard: raw data is used")) %>%
       select(Source, Reference, Year, Note_Confidence, Comment)) %>%
   rename(Note_confidence = Note_Confidence)
 

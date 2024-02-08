@@ -8,7 +8,7 @@
 A data frame with 5 columns:
 \describe{
 \item{Name}{Name of the phosphate mining and beneficiation complex}
-\item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
+\item{Confidence}{\emph{High}, \emph{Medium}, or \emph{Low} (see \href{../doc/Introduction.pdf}{phosphateRock::Introduction} for details)}
 \item{Value}{PR-to-ore ratio}
 \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 }

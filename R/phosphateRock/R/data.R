@@ -1,3 +1,16 @@
+#' Global dataset on phosphate mining and beneficiation
+#' 
+#' The dataset covers worldwide production of phosphate rock (PR) at the level 
+#' of phosphate mining and beneficiation complex. The objective is to gather 
+#' complex-specific data on the P content of mined and beneficiated resource and 
+#' on the recovery rates of beneficiation process. Phosphate mining and 
+#' beneficiation complex refers to a phosphate ore deposit with adjacent mine(s) 
+#' and beneficiation plant(s).
+#'
+#' @seealso \href{../doc/Introduction.pdf}{phosphateRock::Introduction}
+#' 
+#' @docType package
+#' @name phosphateRock
 NULL
 
 #' Phosphate mining and beneficiation complexes: general information
@@ -36,7 +49,7 @@ NULL
 #' @format A data frame with 4 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
+#' \item{Confidence}{\emph{High}, \emph{Medium}, or \emph{Low} (see \href{../doc/Introduction.pdf}{phosphateRock::Introduction} for details)}
 #' \item{Value}{Grade, \% P2O5}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' } 
@@ -57,7 +70,7 @@ NULL
 #' @format A data frame with 4 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
+#' \item{Confidence}{\emph{High}, \emph{Medium}, or \emph{Low} (see \href{../doc/Introduction.pdf}{phosphateRock::Introduction} for details)}
 #' \item{Value}{Grade, \% P2O5}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -117,7 +130,7 @@ NULL
 #' @format A data frame with 5 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
+#' \item{Confidence}{\emph{High}, \emph{Medium}, or \emph{Low} (see \href{../doc/Introduction.pdf}{phosphateRock::Introduction} for details)}
 #' \item{Value}{PR-to-ore ratio}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -139,7 +152,7 @@ NULL
 #' @format A data frame with 5 columns:
 #' \describe{
 #' \item{Name}{Name of the phosphate mining and beneficiation complex}
-#' \item{Confidence}{\emph{High} (relevant company's data), \emph{Medium} or \emph{Low}}
+#' \item{Confidence}{\emph{High}, \emph{Medium}, or \emph{Low} (see \href{../doc/Introduction.pdf}{phosphateRock::Introduction} for details)}
 #' \item{Value}{Ratio of \% P2O5 in PR to \% P2O5 in ore}
 #' \item{Source}{Identifier for document(s) used as data source(s) (see \code{\link{sources}} for details)}
 #' }
@@ -150,7 +163,7 @@ NULL
 #' List of data sources 
 #' 
 #' General information about data sources, including their identifiers, references to source document(s),
-#' data relevance, and notes on data collection.
+#' data relevance, notes on data quality, and notes on data collection.
 #' 
 #' For bibliography, see 
 #' \href{../doc/References.pdf}{phosphateRock::References}

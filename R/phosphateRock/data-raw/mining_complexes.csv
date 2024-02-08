@@ -1,7 +1,7 @@
 "Name","Region","Country","Subnational_area","Company","Rock_type","Status","Capacity"
 "Khouribga","Africa","Morocco","Béni Mellal-Khénifra Region","OCP S.A.","sedimentary","operational",22.6
 "Gantour","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17
-"Meskala","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","operational",17
+"Meskala","Africa","Morocco","Marrakesh-Safi Region","OCP S.A.","sedimentary","in development",17
 "Gafsa","Africa","Tunisia","Gafsa Governorate","Compagnie des Phosphates de Gafsa (CPG)","sedimentary","operational",8.7
 "Phalaborwa","Africa","South Africa","Limpopo Province","Foskor (Pty) Ltd","igneous","operational",2.8
 "Boucraa","Africa","Morocco","Western Sahara - Laâyoune-Sakia El Hamra Region","OCP S.A.","sedimentary","operational",2.6

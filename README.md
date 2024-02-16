@@ -1,5 +1,7 @@
 # Global dataset on phosphate mining and beneficiation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10670030.svg)](https://doi.org/10.5281/zenodo.10670030)
+
 The dataset covers worldwide production of phosphate rock (PR) at the level of phosphate mining and beneficiation complex. The objective is to gather complex-specific data on the P content of mined and beneficiated resource and on the recovery rates of beneficiation process. Phosphate mining and beneficiation complex refers to a phosphate ore deposit with adjacent mine(s) and beneficiation plant(s). See [Introduction](R/phosphateRock/vignettes/Introduction.pdf) for details.
 
 The dataset is structured into 7 tables. 

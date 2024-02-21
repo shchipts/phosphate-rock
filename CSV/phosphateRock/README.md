@@ -16,6 +16,10 @@ The “Global dataset on phosphate mining and beneficiation” is structured int
 * Tables [metadata](metadata.pdf)
 * [Bibliography](References.pdf)
 
+## How to cite
+
+Anna Shchiptsova. (2024). Global dataset on phosphate mining and beneficiation (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10676569
+
 ## License
 
 Copyright © 2024 International Institute for Applied Systems Analysis

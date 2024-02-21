@@ -18,6 +18,10 @@ The “Global dataset on phosphate mining and beneficiation” is structured int
 devtools::install_github("shchipts/phosphate-rock", subdir = "R/phosphateRock", build_vignettes = TRUE)
 ```
 
+## How to cite
+
+Anna Shchiptsova. (2024). Global dataset on phosphate mining and beneficiation (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10676569
+
 ## License
 
 Copyright © 2024 International Institute for Applied Systems Analysis

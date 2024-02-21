@@ -8,6 +8,10 @@ The dataset is structured into 7 tables.
 
 All tables can be accessed using the [R package phosphateRock](R/phosphateRock) and using the [CSV files](CSV/phosphateRock).
 
+## How to cite
+
+Anna Shchiptsova. (2024). Global dataset on phosphate mining and beneficiation (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10676569
+
 ## License
 
 Copyright © 2024 International Institute for Applied Systems Analysis
